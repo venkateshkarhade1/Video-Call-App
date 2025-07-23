@@ -31,3 +31,17 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+# Java
+target/
+*.class
+*.jar
+*.war
+*.log
+
+
+# Secrets
+application.properties
+application.yml
+.env
